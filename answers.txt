@@ -1,0 +1,6 @@
+Q1: 23a06196
+Q2: 3
+Q3: git pull because it gets and merges my teammate's changes into my local branch befor I push again
+Q4: It isn't protected because adding it does not remove the password from Git history or prevent access to the pushed secret
+Q5: git branch -d old-fix
+git branch --delete old-fix
